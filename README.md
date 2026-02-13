@@ -62,7 +62,6 @@ Available scripts (in `winfo/package.json`)
 Notes & next steps
 - The project currently uses the app router (Next.js) with API route files under `winfo/app/api/`.
 - Priorities and story points (copied from planning): location tracking and send location are P0; shake & call features are P2; notifications and voice recording are P1.
-- If you want, I can: create a dedicated `docs/` folder with API specs, add Postman/OpenAPI examples, or scaffold missing API route handlers.
 
 License
 
